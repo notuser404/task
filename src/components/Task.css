@@ -8,3 +8,7 @@
   color: #fff;
   align-items: center;
 }
+
+.taskTitle {
+  cursor: pointer;
+}
