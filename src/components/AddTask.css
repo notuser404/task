@@ -1,0 +1,25 @@
+.addTaskContainer {
+  margin: 15px 0;
+  width: 100%;
+  display: flex;
+}
+
+.addTaskInput {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 5px;
+  border: none;
+  flex: 2;
+  background-color: #444;
+  color: #eee;
+  font-size: 16px;
+}
+
+.addTaskInput:focus {
+  outline: none;
+}
+
+.addTaskButtonContainer {
+  margin-left: 10px;
+  flex: 1;
+}
